@@ -1,3 +1,11 @@
+# Preface
+
+This file was a part of a deep learning course from Udacity mentioned below. I find this set of projects very useful for understanding DNNs, RNNs and NLP and others.
+
+The repository conains my solutions to the problems and more - my experiments and variations on the problems and techniques. Feel free to browse and copy.
+
+MIT License (unchanged)
+
 # Deep Learning (PyTorch) - ND101 v7
 
 This repository contains material related to Udacity's [Deep Learning v7 Nanodegree program](https://www.udacity.com/course/deep-learning-nanodegree--nd101). It consists of a bunch of tutorial notebooks for various deep learning topics. In most cases, the notebooks lead you through implementing models such as convolutional networks, recurrent networks, and GANs. There are other topics covered such as weight initialization and batch normalization.
