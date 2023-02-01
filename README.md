@@ -6,6 +6,11 @@ The repository conains my solutions to the problems and more - my experiments an
 
 MIT License (unchanged)
 
+## List of changes/finished excercises:
+
+`recurrent-neural-networks/char-rnn/Character_Level_RNN_Exercise` - finished excercise
+
+
 ---
 
 # Deep Learning (PyTorch) - ND101 v7
